@@ -8,7 +8,7 @@ http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/101141
 #EXTINF:-1 group-title="Latino", CO: RCN
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181770
 
-#EXTINF:-1 group-title="General", GER: DW Español
+#EXTINF:-1 group-title="Europa", GER: DW Español
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 
 #EXTINF:-1 group-title="", MX: IMAGEN TV
@@ -95,31 +95,31 @@ https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-86/jhxg-mual/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="Latino", AR: TN
 https://live-01-01-tn.vodgc.net/TN24/index.m3u8
 
-#EXTINF:-1 group-title=" Extra US", US: CANAL 57
+#EXTINF:-1 group-title=" USA", US: CANAL 57
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1 group-title=" Extra US", US: CNN
+#EXTINF:-1 group-title=" USA", US: CNN
 https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 
-#EXTINF:-1 group-title=" Extra US", US: NASA TV
+#EXTINF:-1 group-title=" USA", US: NASA TV
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-1 group-title=" Extra US", US: AL JAZEERA EN
+#EXTINF:-1 group-title=" USA", US: AL JAZEERA EN
 https://live-hls-web-aje-fa.getaj.net/AJE/03.m3u8
 
-#EXTINF:-1 group-title=" Extra US", US: AL JAZEERA ARAB
+#EXTINF:-1 group-title=" USA", US: AL JAZEERA ARAB
 https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 
-#EXTINF:-1 group-title=" Extra US", US: UNIVERSO
+#EXTINF:-1 group-title=" USA", US: UNIVERSO
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
-#EXTINF:-1 group-title=" Extra US", US: ESPN DEPORTES
+#EXTINF:-1 group-title=" USA", US: ESPN DEPORTES
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 
-#EXTINF:-1 group-title=" Extra US", US: FOX DEPORTES
+#EXTINF:-1 group-title=" USA", US: FOX DEPORTES
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 
-#EXTINF:-1 group-title=" Extra US", US: TELEMUNDO
+#EXTINF:-1 group-title=" USA", US: TELEMUNDO
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 
 #EXTINF:-1 group-title="Latino", SV: CANAL 12
@@ -128,46 +128,46 @@ https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 group-title="Latino", SV: CANAL 57
 https://streaming.grupocsanetwork.com:19360/canal57/canal57.m3u8
 
-#EXTINF:-1 group-title=" Extra US", US: TELEMUNDO INTERNACIONAL
+#EXTINF:-1 group-title=" USA", US: TELEMUNDO INTERNACIONAL
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/199197 
 
-#EXTINF:-1 group-title=" Extra US", US: UNIVISION
+#EXTINF:-1 group-title=" USA", US: UNIVISION
 http://tvlatino.club:2082/Jonatan2024/yaDWd7M4A2Eg/304306
 
-#EXTINF:-1 group-title=" COPA EURO", COPA EURO AR: ESPN
+#EXTINF:-1 group-title=" Deportes", Deportes AR: ESPN
 http://170.82.37.21:8000/play/a04g/index.m3u8
 
-#EXTINF:-1 group-title=" COPA EURO", COPA EURO AR: ESPN
+#EXTINF:-1 group-title=" Deportes", Deportes AR: ESPN
 http://181.78.8.90:16123/play/ch16
 
-#EXTINF:-1 group-title=" COPA EURO", COPA EURO AR: ESPN
+#EXTINF:-1 group-title=" Deportes", Deportes AR: ESPN
 http://200.60.124.19:29000/play/a016/index.m3u8
 
-#EXTINF:-1 group-title=" COPA EURO", COPA EURO MX: CANAL 5
+#EXTINF:-1 group-title=" Deportes", Deportes MX: CANAL 5
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158620
 
-#EXTINF:-1 group-title=" COPA EURO", COPA EURO ES: LA 2
+#EXTINF:-1 group-title=" Deportes", Deportes ES: LA 2
 http://zeuspro.xyz:8080/andrepin23/fUZW6bmvcC/117156
 
-#EXTINF:-1 group-title=" COPA EURO", COPA EURO TR: TRT 1
+#EXTINF:-1 group-title=" Deportes", Deportes TR: TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
-#EXTINF:-1 group-title=" PARIS 2024", PARIS 2024 SV: CANAL 12
+#EXTINF:-1 group-title=" Europa", Europa SV: CANAL 12
 https://alba-sv-c12-c12.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title=" PARIS 2024", PARIS 2024 US: UNIVERSO
+#EXTINF:-1 group-title=" Europa", Europa US: UNIVERSO
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
-#EXTINF:-1 group-title=" PARIS 2024", PARIS 2024 US: TELEMUNDO
+#EXTINF:-1 group-title=" Europa", Europa US: TELEMUNDO
 https://content.uplynk.com/channel/b6a96ed39d694ae1b738faa98cf7dd3f.m3u8
 
-#EXTINF:-1 group-title=" PARIS 2024", PARIS 2024 US: TELEMUNDO
+#EXTINF:-1 group-title=" Europa", Europa US: TELEMUNDO
 http://rasaiptv.com:8080/amartinez/s1stemas.13579/114358
 
-#EXTINF:-1 group-title=" PARIS 2024", PARIS 2024 TR: TRT 1 PARIS
+#EXTINF:-1 group-title=" Europa", Europa TR: TRT 1 PARIS
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
 
-#EXTINF:-1 group-title=" PARIS 2024", PARIS 2024 HN: VTV PARIS
+#EXTINF:-1 group-title=" Europa", Europa HN: VTV PARIS
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 group-title=" DEPORTES", vtv plus (uruguay)
@@ -284,46 +284,46 @@ https://dashtvcloud.online:8443/josealbrook/panama121/146532
 #EXTINF:-1 group-title=" DEPORTES", gol tv (usa)
 https://dashtvcloud.online:8443/josealbrook/panama121/223552
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: INTERNETV DEPORTES
+#EXTINF:-1 group-title=" Deportes", LMB: INTERNETV DEPORTES
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: INTERNETV DEPORTES
+#EXTINF:-1 group-title=" Deportes", LMB: INTERNETV DEPORTES
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: AYM SPORTS
+#EXTINF:-1 group-title=" Deportes", LMB: AYM SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: NRT MEXICO
+#EXTINF:-1 group-title=" Deportes", LMB: NRT MEXICO
 https://59e88b197fb16.streamlock.net:4443/live/canal4/playlist.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: SULTANES
+#EXTINF:-1 group-title=" Deportes", LMB: SULTANES
 https://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: ALGODONEROS UL
+#EXTINF:-1 group-title=" Deportes", LMB: ALGODONEROS UL
 https://mdstrm.com/live-stream-playlist/57bf686a61ff39e1085d43e1.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: SARAPEROS
+#EXTINF:-1 group-title=" Deportes", LMB: SARAPEROS
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: BRAVOS LEON
+#EXTINF:-1 group-title=" Deportes", LMB: BRAVOS LEON
 https://5f1af61612fb5.streamlock.net/tv43gto/smil:tv43gto.smil/playlist.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: PERICOS
+#EXTINF:-1 group-title=" Deportes", LMB: PERICOS
 https://mdstrm.com/live-stream-playlist/5d56ed29c92dd106ff01543b.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: RTV  VERACRUZ
+#EXTINF:-1 group-title=" Deportes", LMB: RTV  VERACRUZ
 https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: LEONES YUC
+#EXTINF:-1 group-title=" Deportes", LMB: LEONES YUC
 https://webprod.sipse.com.mx:8080/show/merida.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: TIGRES DE QOO
+#EXTINF:-1 group-title=" Deportes", LMB: TIGRES DE QOO
 https://webprod.sipse.com.mx:8080/show/tvcun.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: PIRATAS
+#EXTINF:-1 group-title=" Deportes", LMB: PIRATAS
 https://5f1af61612fb5.streamlock.net/trc/videotrc/playlist.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES LMB", LMB: OLMECAS
+#EXTINF:-1 group-title=" Deportes", LMB: OLMECAS
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 
 #EXTINF:-1 group-title=" DEPORTES", MX: FUTBOL 1
