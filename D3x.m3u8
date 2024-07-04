@@ -89,7 +89,7 @@ https://samson.streamerr.co:8081/shogun/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Latino", BO: CANAL 7.1
 https://5ca3e84a76d30.streamlock.net/boliviatv/videoboliviatv/chunklist_w613957484.m3u8
 
-#EXTINF:-1 group-title="Latino", BO: CANAL 7.2 DEPORTES
+#EXTINF:-1 group-title="Latino", BO: CANAL 7.2 Deportes
 https://hugh.cdn.rumble.cloud/live/y16rq9u0/slot-86/jhxg-mual/chunklist_DVR.m3u8
 
 #EXTINF:-1 group-title="Latino", AR: TN
@@ -113,10 +113,10 @@ https://live-hls-web-aja-fa.getaj.net/AJA/05.m3u8
 #EXTINF:-1 group-title=" USA", US: UNIVERSO
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/159195
 
-#EXTINF:-1 group-title=" USA", US: ESPN DEPORTES
+#EXTINF:-1 group-title=" USA", US: ESPN Deportes
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158831
 
-#EXTINF:-1 group-title=" USA", US: FOX DEPORTES
+#EXTINF:-1 group-title=" USA", US: FOX Deportes
 http://45.90.105.74:25461/carlospix/Rx5HpkPqgp/158838
 
 #EXTINF:-1 group-title=" USA", US: TELEMUNDO
@@ -170,124 +170,124 @@ https://d1u68oyra9spme.cloudfront.net/master.m3u8
 #EXTINF:-1 group-title=" Europa", Europa HN: VTV PARIS
 https://alba-hn-vtv-vtv.stream.mediatiquestream.com/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", vtv plus (uruguay)
+#EXTINF:-1 group-title=" Deportes", vtv plus (uruguay)
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181758
 
-#EXTINF:-1 group-title=" DEPORTES",  direc tv sport 2 (argentina)
+#EXTINF:-1 group-title=" Deportes",  direc tv sport 2 (argentina)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/456658
 
-#EXTINF:-1 group-title=" DEPORTES",  fox sport 2 (argentina)
+#EXTINF:-1 group-title=" Deportes",  fox sport 2 (argentina)
 http://lobo-tv.live:8080/rhin0xCPwow/yXtqbNNtmzaqU/10957
 
-#EXTINF:-1 group-title=" DEPORTES", fox 3 (argentina)
+#EXTINF:-1 group-title=" Deportes", fox 3 (argentina)
 http://tv.soccerplus.link:8000/andresmiranda/DTp1CZJ98f/34589
 
-#EXTINF:-1 group-title=" DEPORTES", Tnt sports (chile)
+#EXTINF:-1 group-title=" Deportes", Tnt sports (chile)
 http://directo.ddns.me:2082/restreamJRX100/dg2wSTvfTfxe/57160
 
-#EXTINF:-1 group-title=" DEPORTES", TNT SPORTS 2 (chile)
+#EXTINF:-1 group-title=" Deportes", TNT SPORTS 2 (chile)
 http://854028012115848149.ofk0601.xyz:80/live/MFCiptv2023.7/dFxQTA3KYGWX/848149.ts
 
-#EXTINF:-1 group-title=" DEPORTES", contacto deportivo (peru)
+#EXTINF:-1 group-title=" Deportes", contacto deportivo (peru)
 https://live.obslivestream.com/cdeportivo/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", gol peru (peru)
+#EXTINF:-1 group-title=" Deportes", gol peru (peru)
 http://alfatv.lat:2082/diego270903/diego270903/234942
 
-#EXTINF:-1 group-title=" DEPORTES", liga 1
+#EXTINF:-1 group-title=" Deportes", liga 1
 http://tvbross.com:8090/comandoalmache/almache2022../140577
 
-#EXTINF:-1 group-title=" DEPORTES",  movistar (peru)
+#EXTINF:-1 group-title=" Deportes",  movistar (peru)
 http://pro.boxdigital.org:8080/tinoco/QRe2QbFyQg/181756
 
-#EXTINF:-1 group-title=" DEPORTES",  FOX SPORTS  1 (México)
+#EXTINF:-1 group-title=" Deportes",  FOX SPORTS  1 (México)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/36396
 
-#EXTINF:-1 group-title=" DEPORTES",  FOX SPORTS 3 (México)
+#EXTINF:-1 group-title=" Deportes",  FOX SPORTS 3 (México)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/9538
 
-#EXTINF:-1 group-title=" DEPORTES",  ESPN SPORT 1 (México)
+#EXTINF:-1 group-title=" Deportes",  ESPN SPORT 1 (México)
 https://sdmx.vip:443/belpley/sYqKZQrTZa/155472.ts
 
-#EXTINF:-1 group-title=" DEPORTES",TVC SPORTS 
+#EXTINF:-1 group-title=" Deportes",TVC SPORTS 
 http://budtvlight.com:25461/rafanewl/t37DDpJuwD5j/159097
 
-#EXTINF:-1 group-title=" DEPORTES", fox sport premiun (mexico)
+#EXTINF:-1 group-title=" Deportes", fox sport premiun (mexico)
 http://home-playtv.com:8080/powertv/W8LULsPWL9by/158454
 
-#EXTINF:-1 group-title=" DEPORTES", TUDN usa
+#EXTINF:-1 group-title=" Deportes", TUDN usa
 http://tvmate.icu:8080/Alan/Alan1234/82241
 
-#EXTINF:-1 group-title=" DEPORTES", sky sport (México)
+#EXTINF:-1 group-title=" Deportes", sky sport (México)
 https://dashtvcloud.online:8443/josealbrook/panama121/144286
 
-#EXTINF:-1 group-title=" DEPORTES", azteca deportes (México)
+#EXTINF:-1 group-title=" Deportes", azteca Deportes (México)
 http://tv.proyectox.vip:8080/Hidr13odemsww/nTAuRWcTmD/180062
 
-#EXTINF:-1 group-title=" DEPORTES", deportes ufc (México)
+#EXTINF:-1 group-title=" Deportes", Deportes ufc (México)
 http://zeuspro.xyz:8080/correadriana1/Op2jcJKb6X/8918
 
-#EXTINF:-1 group-title=" DEPORTES", deportes itv (México)
+#EXTINF:-1 group-title=" Deportes", Deportes itv (México)
 https://thm-it-roku.otteravision.com/thm/it/it_720p_high.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", futbol network tv (México)
+#EXTINF:-1 group-title=" Deportes", futbol network tv (México)
 https://59d39900ebfb8.streamlock.net/8312/8312/.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", faceta tv (bolivia)
+#EXTINF:-1 group-title=" Deportes", faceta tv (bolivia)
 https://master.tucableip.com/ftv/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", futv (costa rica)
+#EXTINF:-1 group-title=" Deportes", futv (costa rica)
 http://budtvlight.com:25461/jaime/3DbdkaKhwZEd/162220
 
-#EXTINF:-1 group-title=" DEPORTES", tigo sports (costa rica)
+#EXTINF:-1 group-title=" Deportes", tigo sports (costa rica)
 http://201.159.113.219:49000/play/a04x/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", tigo sports (panama)
+#EXTINF:-1 group-title=" Deportes", tigo sports (panama)
 https://dashtvcloud.online:8443/josealbrook/panama121/144349
 
-#EXTINF:-1 group-title=" DEPORTES", ser tv (panama)
+#EXTINF:-1 group-title=" Deportes", ser tv (panama)
 https://dashtvcloud.online:8443/josealbrook/panama121/126568
 
-#EXTINF:-1 group-title=" DEPORTES", cos fc (panama)
+#EXTINF:-1 group-title=" Deportes", cos fc (panama)
 https://dashtvcloud.online:8443/josealbrook/panama121/213622
 
-#EXTINF:-1 group-title=" DEPORTES", WAPA BEISBOL
+#EXTINF:-1 group-title=" Deportes", WAPA BEISBOL
 https://live.field59.com/wapa/wapa2/playlist.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", Canal 13 nicaragua
+#EXTINF:-1 group-title=" Deportes", Canal 13 nicaragua
 http://tvlatino.live:8080/play/_A1diXa2YXbIu98UrBQoM9CFoCCxS-MNbukUrvdLOUB0IQGh8M7qvrrK6_2OKABd/ts
 
-#EXTINF:-1 group-title=" DEPORTES", nba tv
+#EXTINF:-1 group-title=" Deportes", nba tv
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXn4MLNstO02YGaIQk7Vj7_
 
-#EXTINF:-1 group-title=" DEPORTES", mlb network 
+#EXTINF:-1 group-title=" Deportes", mlb network 
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEXuEvcE6ncGKEYRubAc_MXo
 
-#EXTINF:-1 group-title=" DEPORTES", nfl network 
+#EXTINF:-1 group-title=" Deportes", nfl network 
 http://offshore.lat:8080/play/xknfF6QKbQnlCvS51ULeiko8hkRCt0L8Rp3JgOdWbEVYJW-Q5gl89q2J5sBjKlEZ
 
-#EXTINF:-1 group-title=" DEPORTES", tennis channels
+#EXTINF:-1 group-title=" Deportes", tennis channels
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243903
 
-#EXTINF:-1 group-title=" DEPORTES", golf channels
+#EXTINF:-1 group-title=" Deportes", golf channels
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/190695
 
-#EXTINF:-1 group-title=" DEPORTES", wwe network
+#EXTINF:-1 group-title=" Deportes", wwe network
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243910
 
-#EXTINF:-1 group-title=" DEPORTES", willow cricket network 
+#EXTINF:-1 group-title=" Deportes", willow cricket network 
 http://tvlatino.club:2082/devil40/VkCBMYP78uZn/243908
 
-#EXTINF:-1 group-title=" DEPORTES", yes network (usa)
+#EXTINF:-1 group-title=" Deportes", yes network (usa)
 https://dashtvcloud.online:8443/josealbrook/panama121/146532
 
-#EXTINF:-1 group-title=" DEPORTES", gol tv (usa)
+#EXTINF:-1 group-title=" Deportes", gol tv (usa)
 https://dashtvcloud.online:8443/josealbrook/panama121/223552
 
-#EXTINF:-1 group-title=" Deportes", LMB: INTERNETV DEPORTES
+#EXTINF:-1 group-title=" Deportes", LMB: INTERNETV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 group-title=" Deportes", LMB: INTERNETV DEPORTES
+#EXTINF:-1 group-title=" Deportes", LMB: INTERNETV Deportes
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 #EXTINF:-1 group-title=" Deportes", LMB: AYM SPORTS
@@ -326,59 +326,59 @@ https://5f1af61612fb5.streamlock.net/trc/videotrc/playlist.m3u8
 #EXTINF:-1 group-title=" Deportes", LMB: OLMECAS
 https://5e50264bd6766.streamlock.net/ujat/videoujat/playlist.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", MX: FUTBOL 1
+#EXTINF:-1 group-title=" Deportes", MX: FUTBOL 1
 https://linear-439.frequency.stream/mt/studio/439/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", MX: INTERNETV DEPORTES
+#EXTINF:-1 group-title=" Deportes", MX: INTERNETV Deportes
 https://thm-it-roku.otteravision.com/thm/it/it.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",Claro Sport
+#EXTINF:-1 group-title=" Deportes",Claro Sport
 http://181.78.105.146:2000/play/a053/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN 2
+#EXTINF:-1 group-title=" Deportes",ESPN 2
 http://181.78.105.146:2000/play/a063/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN
+#EXTINF:-1 group-title=" Deportes",ESPN
 http://181.78.105.146:2000/play/a064/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN3
+#EXTINF:-1 group-title=" Deportes",ESPN3
 http://181.78.105.146:2000/play/a03n/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN VIVO
+#EXTINF:-1 group-title=" Deportes",ESPN VIVO
 http://170.82.37.21:8000/play/a04g/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN VIVO
+#EXTINF:-1 group-title=" Deportes",ESPN VIVO
 http://181.78.8.90:16123/play/ch16
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN VIVO HD
+#EXTINF:-1 group-title=" Deportes",ESPN VIVO HD
 http://200.60.124.19:29000/play/a016/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN 2 HD
+#EXTINF:-1 group-title=" Deportes",ESPN 2 HD
 http://181.78.8.90:16123/play/ch17
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN 2 HD
+#EXTINF:-1 group-title=" Deportes",ESPN 2 HD
 http://200.60.124.19:29000/play/a015/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN 3 HD
+#EXTINF:-1 group-title=" Deportes",ESPN 3 HD
 http://200.60.124.19:29000/play/a02e/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN 5
+#EXTINF:-1 group-title=" Deportes",ESPN 5
 http://181.78.8.90:16123/play/ch19
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN 5 
+#EXTINF:-1 group-title=" Deportes",ESPN 5 
 http://200.60.124.19:29000/play/a04y/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", ESPN 6 
+#EXTINF:-1 group-title=" Deportes", ESPN 6 
 http://200.60.124.19:29000/play/a01f/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES",ESPN 7 
+#EXTINF:-1 group-title=" Deportes",ESPN 7 
 http://200.60.124.19:29000/play/a01e/index.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", CN: CCTV5
+#EXTINF:-1 group-title=" Deportes", CN: CCTV5
 https://live.olelive.com:6443/live/CCTV5HD/hls.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", CN: CCTV5+
+#EXTINF:-1 group-title=" Deportes", CN: CCTV5+
 https://live.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 
-#EXTINF:-1 group-title=" DEPORTES", TR: TRT 1
+#EXTINF:-1 group-title=" Deportes", TR: TRT 1
 https://d1u68oyra9spme.cloudfront.net/master.m3u8
