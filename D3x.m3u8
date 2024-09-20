@@ -1,8 +1,6 @@
 #EXTM3U
 
 ************************  19/SEP/2024 ****************************
-
-#EXTM3U
 #EXTINF:-1,A&E HD
 http://209.45.101.36:50000/play/AyEHD/index.m3u8
 #EXTINF:-1,AMC HD
@@ -1137,6 +1135,3 @@ http://181.78.71.5:4890/play/a04u/index.m3u8
 http://179.1.132.203:8000/play/a034/index.m3u8
 #EXTINF:-1,#EXTINF:- Canal 2 Alpavision Neiva
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
-
-#EXTINF:-1 group-title=" Deportes", TR: TRT 1
-https://d1u68oyra9spme.cloudfront.net/master.m3u8
