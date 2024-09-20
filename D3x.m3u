@@ -1,8 +1,10 @@
 #EXTM3U
 
 ************************  20/SEP/2024 ****************************
-#EXTINF:-1,A&E
+#EXTINF:-1,A&E (1)
 http://160.20.165.246:8000/play/a00k/index.m3u8
+#EXTINF:-1,A&E (2)
+http://181.78.71.5:4890/play/a03n/index.m3u8
 #EXTINF:-1,A&E HD (1)
 http://209.45.101.35:50000/play/AyEHD/index.m3u8
 #EXTINF:-1,A&E HD (2)
@@ -10,9 +12,6 @@ http://209.45.101.36:50000/play/AyEHD/index.m3u8
 
 #EXTINF:-1,A3 Series
 http://160.20.165.246:8000/play/a00f/index.m3u8
-
-#EXTINF:-1,AE Mundo
-http://181.78.71.5:4890/play/a03n/index.m3u8
 
 #EXTINF:-1,Alpavision
 https://stmv1.voxtvhd.com.br/alpavision/alpavision/playlist.m3u8
